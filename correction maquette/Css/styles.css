@@ -1,0 +1,16 @@
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.bgcolor {
+  background-color: rgb(247, 109, 59);
+}
+.maxheight {
+  max-height: 48px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+.shop {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin-left: 130px;
+}
